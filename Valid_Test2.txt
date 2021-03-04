@@ -1,3 +1,5 @@
 Just adding a note in remote repository to see if it gets synchronized in local.
 Now I am adding a line in the file which is in my local directory to see if it synchronizes with remote repository.
 Now testing the same again to test the flow.
+We are now adding a new note in the local repository and we will synchronize with remote repository.
+
